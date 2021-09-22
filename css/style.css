@@ -4,12 +4,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 header{
-    background-color: burlywood;
+    background-color: black;
+    text-align: center;
 }
 main{
     background-color: chartreuse;
 }
 footer{
+    text-align: right;
     background-color: darkorange;
 }
 h2{
